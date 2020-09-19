@@ -7,8 +7,8 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 # User.delete_all
-Recipe.delete_all
-Comment.delete_all
+# Recipe.delete_all
+# Comment.delete_all
 
 recipes = [
     {
@@ -700,43 +700,10 @@ recipes = [
         vegetarian: true
     }
 ]
-
 recipes.each do |recipe| 
     Recipe.create(title: recipe[:title], ingredients: recipe[:ingredients], cooktime: recipe[:cooktime], instructions: recipe[:instructions], picture: recipe[:picture], vegetarian: recipe[:vegetarian])
 end
 puts "recipes done"
-
-users = [
-    {
-        username: "Taco",
-        email: "taco@taco.com", 
-        password_digest: "taco"
-    },
-    {
-        username: "Chia",
-        email: "chia@tchia.com", 
-        password_digest: "chia"
-    },
-    {
-        username: "Potato",
-        email: "potato@potato.com", 
-        password_digest: "potato"
-    },
-    {
-        username: "Dumpling",
-        email: "dumpling@dumpling.com", 
-        password_digest: "dumpling"
-    },
-    {
-        username: "Bean",
-        email: "bean@bean.com", 
-        password_digest: "bean"
-    },
-]
-users.each do |user| 
-    User.create(username: user[:username], email: user[:email], password_digest: user[:password_digest])
-end
-puts "users done"
 
 comments = [
     {
@@ -793,7 +760,7 @@ comments = [
     },
     {
         content: "This looks great, thanks for posting!",
-        user_id: 3,
+        user_id: 6,
         recipe_id: 1
     }
 ]
