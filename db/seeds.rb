@@ -667,61 +667,6 @@ recipes = [
         picture: "https://i.redd.it/nl26ptjxkog41.jpg",
         vegetarian: true,
         favorite: false
-    }, 
-    {
-        title: "FRENCH CREPES WITHOUT MILK | DAIRY FREE",
-        ingredients: "Ingredients for 2 very hungry people, about 12 crêpes 
-        200g all purpose flour
-        400 mL vegetal milk, here 200 mL rice and 200 mL coconut
-        2 eggs
-        40 mL of vegetable oil
-        2 teaspoon of sugar
-        3 to 5 cL of rum
-        cinnamon and vanilla",
-        cooktime: 15,
-        instructions: "Hey guys we're super happy to bring you our French crepe recipe without milk, me and Enzo don't ever buy milk and enjoy using non dairy milk. They don't taste any different to dairy milk, they are super yummy and easy to make. Let us know what you think in the comments !
-
-        Mix your eggs together mix the sugar, cinnamon and vanilla. 
-        
-        Pour it into yout flour, and give a fast first little mix so you avoid lumpiness. 
-        
-        Then add half of your milk slowly once again to avoid lumps, and pour the rest f the milk once the mix is smooth. Once smooth, add the oil and the rum.
-        
-        Get your pan ready and make your crêpes ! This recipe is for about 12 crêpes. BON APPETIT !",
-        picture: "https://www.youtube.com/watch?v=yabgvTFjKcs&feature=emb_title",
-        vegetarian: true,
-        favorite: false
-    },    
-    {
-        title: "Egg Shakshuka Recipe",
-        ingredients: "4 Eggs
-        1 Onion
-        3 Tomatoes
-        2 Potatoes
-        50ml Olive Oil
-        1 tsp Tomato Puree
-        1 tsp Black Pepper
-        1 tsp Salt
-        2 Green Chillies",
-        cooktime: 25,
-        instructions: "In a large pan, add the olive oil and the potatoes
-
-        Sauté for 5 minutes on medium heat until potatoes are slightly browned
-        
-        Add onions and cook for a further few minutes
-        
-        Add the tomatoes, salt, black pepper and tomato puree.
-        
-        Cover and cook for 10 minutes on medium heat
-        
-        Add the chopped green chillies and then cook for a few more minutes
-        
-        Add the eggs and cover, then cook for a few minutes on low heat
-        
-        Enjoy with a paratha!",
-        picture: "https://www.youtube.com/watch?v=x43jLQyqOmE&feature=emb_title",
-        vegetarian: true,
-        favorite: false
     }
 ]
 recipes.each do |recipe| 
