@@ -5,6 +5,10 @@ class RecipesController < ApplicationController
         render json: @recipes
     end
 
+    def show 
+        render json: Recipe.find(params[:id])
+    end 
+
     def update 
         @recipe = Recipe.find_by(id: params[:id])
         
