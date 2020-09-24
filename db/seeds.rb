@@ -13,7 +13,7 @@
 recipes = [
     {
         title: "BBQ Pork Ramen",
-        ingredients: "1 package of ramen noodles.
+        ingredients: "1 package of ramen noodles,
         1.5 cups of broth,
         Pork belly, sliced,
         BBQ sauce, enough to lather your pork,
