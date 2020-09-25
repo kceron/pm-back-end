@@ -17,9 +17,10 @@ class RecipesController < ApplicationController
     end
 
     def create 
-        # byebug 
-        # image = Cloudinary::Uploader.upload(params[:image])
+        image = Cloudinary::Uploader.upload(params[:picture])
+        
         @recipe = Recipe.create(recipe_params)
+        @recipe.update(picture: image["url"])
         render json: @recipe
       end
     
@@ -32,7 +33,11 @@ class RecipesController < ApplicationController
     
       private
       def recipe_params
-        params.permit(:title, :cooktime, :ingredients, :instructions, :picture, :vegetarian, :user_id)
+        params.permit(:title, :cooktime, :ingredients, :instructions, :category, :user_id)
       end
     
 end
+
+# image = Cloudinary::Uploader.upload(params[:picture])
+# video = Cloudinary::Uploader.upload(params[:video], :resource_type => :video)
+

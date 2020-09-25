@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_09_22_170624) do
+ActiveRecord::Schema.define(version: 2020_09_24_225356) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -35,6 +35,13 @@ ActiveRecord::Schema.define(version: 2020_09_22_170624) do
     t.index ["user_id"], name: "index_favorites_on_user_id"
   end
 
+  create_table "items", force: :cascade do |t|
+    t.string "image"
+    t.string "video"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
   create_table "ratings", force: :cascade do |t|
     t.bigint "user_id", null: false
     t.bigint "recipe_id", null: false
@@ -47,13 +54,13 @@ ActiveRecord::Schema.define(version: 2020_09_22_170624) do
 
   create_table "recipes", force: :cascade do |t|
     t.string "title"
-    t.string "ingredients"
-    t.integer "cooktime"
+    t.text "ingredients"
+    t.string "cooktime"
     t.text "instructions"
     t.string "picture"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
-    t.boolean "vegetarian"
+    t.string "category"
     t.boolean "favorite"
   end
 

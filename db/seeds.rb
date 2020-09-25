@@ -13,22 +13,24 @@
 recipes = [
     {
         title: "BBQ Pork Ramen",
-        ingredients: "1 package of ramen noodles,
-        1.5 cups of broth,
-        Pork belly, sliced,
-        BBQ sauce, enough to lather your pork,
-        1 green onion sprig, washed and finely chopped,
-        1 soft-boiled egg,
-        1/8 cup of frozen corn,
+        ingredients: "
+        1 package of ramen noodles
+        1.5 cups of broth
+        Pork belly, sliced
+        BBQ sauce, enough to lather your pork
+        1 green onion sprig, washed and finely chopped
+        1 soft-boiled egg
+        1/8 cup of frozen corn
         1 tbsp of butter",
-        cooktime: 20,
-        instructions: "Preheat your oven to 400 degrees for the pork
+        cooktime: "20",
+        instructions: "
+        Preheat your oven to 400 degrees for the pork.
 
-        If you’re including a soft-boiled egg, now is the time to make that! *(we will include an easy guide for that down at the bottom)
+        If you’re including a soft-boiled egg, now is the time to make that!, we will include an easy guide for that down at the bottom.
         
         Start by roasting your corn in butter. Add 1 tbsp of butter to a non-stick pan. Let it heat until it’s sizzling and then add your frozen corn. Cook until it’s nice and soft, then set aside.
         
-        Get your broth (or water) boiling! You can check the back our your ramen noodle’s package to see the exact cooking instructions
+        Get your broth or water boiling! You can check the back our your ramen noodle’s package to see the exact cooking instructions.
         
         While your broth is heating up, prepare your pork! If you’re using pork belly like us, put it on a cutting board and cut it into thin slices, about a 1/4″ thick.
         
@@ -56,17 +58,18 @@ recipes = [
 
         You’re done! Grab your chopsticks and eat!!",
         picture: "https://i.redd.it/f0tvnxncnhx31.jpg",
-        vegetarian: false,
+        category: "Omnivore",
         favorite: false
     },
     {
         title: "Tofu, Noodle & Veggie Bowl with Ginger Nectarine Vinaigrette",
-        ingredients: " 1 block tofu,
-        Small package of shiitake mushrooms,
-        Oil,
-        Small bag of brussel sprouts,
-        A bundle of asparagus,
-        Greens,
+        ingredients: "
+        1 block tofu
+        Small package of shiitake mushrooms
+        Oil
+        Small bag of brussel sprouts
+        A bundle of asparagus
+        Greens
         Precooked noodles
 
         Dressing (2-3 servings):
@@ -81,8 +84,9 @@ recipes = [
         1/8 tsp each kosher salt and pepper
         * cook 1 diced nectarine over medium-low heat with a dash of water for about 3 to 5 minutes covered, until very soft.
         ",
-        cooktime: 20,
-        instructions: "A perfect way to use up some leftover veggies and noodles! Served with a super tasty, sweet and tangy vinaigrette. Recipe below:
+        cooktime: "20",
+        instructions: "
+        A perfect way to use up some leftover veggies and noodles! Served with a super tasty, sweet and tangy vinaigrette. Recipe below:
 
         Saute 1 block tofu cut in 1cm cubes, and a small package sliced shiitake mushrooms in bit of oil, browning on a few sides.
         
@@ -91,20 +95,22 @@ recipes = [
         Place all the veggies over baby spinach or other greens, along with a bit of noodles. Drizzle dressing over top. Top with red chili flakes and fresh mint
         ",
         picture: "https://i.redd.it/5st77482dsb41.jpg",
-        vegetarian: true,
+        category: "Omnivore",
         favorite: false
     },
     {
         title: "1 pan Breakfast Hash",
-        ingredients: "1 pound sausage
+        ingredients: "
+        1 pound sausage
         3 strips of bacon
         3 eggs
         3 Idaho potatoes
         Shredded cheddar cheese
         Salt, pepper, garlic powder, paprika, and dried parsley
         1 large pan",
-        cooktime: 15,
-        instructions: "1. Brown and crumble sausage over medium heat for 1-2 minutes. Don't cook all the way, leave a bit of pink.
+        cooktime: "15",
+        instructions: "
+        1. Brown and crumble sausage over medium heat for 1-2 minutes. Don't cook all the way, leave a bit of pink.
 
         2. Chop bacon and add to pan. Fry for 1-2 minutes.
         
@@ -118,22 +124,25 @@ recipes = [
         
         This can feed a crowd and also works great for meal prepping! It's fast and the clean up is easy. Hope ypu enjoy!",
         picture: "https://i.redd.it/day6u0idx0641.jpg",
-        vegetarian: false,
+        category: "Omnivore",
         favorite: false
     },
     {
         title: "Dumpster pizza",
-        ingredients: "Frozen cheese pizza 
+        ingredients: "
+        Frozen cheese pizza 
         Whatever leftovers I have in the fridge",
-        cooktime: 15,
-        instructions: "Put whatever your leftovers on top of frozen pizza, toss in the oven.",
+        cooktime: "15",
+        instructions: "
+        Put whatever your leftovers on top of frozen pizza, toss in the oven.",
         picture: "https://i.redd.it/lbamcufmebb51.png",
-        vegetarian: true,
+        category: "Omnivore",
         favorite: false
     },
     {
         title: "Shrimp Cauliflower Fried Rice",
-        ingredients: "1 small cauliflower head, broken into florets
+        ingredients: "
+        1 small cauliflower head, broken into florets
         1 lb. raw shrimp, peeled and deveined
         1 Tbsp olive oil or avocado oil
         2 medium zucchini, cut into bite-sized pieces
@@ -143,8 +152,9 @@ recipes = [
         1 tsp garlic salt
         1 tsp ginger powder
         1 Tbsp sesame seeds",
-        cooktime: 20,
-        instructions: "Place cauliflower florets in a food processor and pulse until broken into rice-sized pieces. Do not over-pulse, or you’ll turn it to mush.
+        cooktime: "20",
+        instructions: "
+        Place cauliflower florets in a food processor and pulse until broken into rice-sized pieces. Do not over-pulse, or you’ll turn it to mush.
 
         Heat oil in a large skillet or wok over medium-high heat.
 
@@ -162,12 +172,13 @@ recipes = [
 
         Reheat it just before serving and enjoy!",
         picture: "https://i.redd.it/yv2e8xdo4sa41.jpg",
-        vegetarian: false,
+        category: "Pescatarian",
         favorite: false
     },
     {
         title: "Chilli soy spinach noodles, air fried spicy sesame tofu, sautéed garlic zucchini, sunny side up",
-        ingredients: "Tofu,
+        ingredients: "
+        Tofu,
         Zucchini,
         Noodles,
         Sesame oil,
@@ -177,8 +188,9 @@ recipes = [
         Chilli flakes,
         Chinese chili sauce,
         White peper",
-        cooktime: 15,
-        instructions: "Air fried tofu - pressed out water from one extra firm tofu, tossed in spicy sesame oil, soy sauce and corn starch 370 degrees for 12-15 min depending on amount.
+        cooktime: "15",
+        instructions: "
+        Air fried tofu - pressed out water from one extra firm tofu, tossed in spicy sesame oil, soy sauce and corn starch 370 degrees for 12-15 min depending on amount.
 
         Stir fry zucchini- Sesame oil, chopped garlic and a splash of soy sauce with zucchini. Stir fry for 2-4 mins for desired texture.
         
@@ -186,21 +198,25 @@ recipes = [
         
         Boil spinach noodles in boiling water for 2 minutes for perfect al dente. Can be found at any good Chinese grocery store. I like this brand for its springy texture and flavour.
         
-        Assemble: In a bowl, I threw in some soy sauce, splash of sesame oil, chilli flakes, chinese Chili sauce/paste of your choice, I used chiu chow chilli sauce, sprinkle of salt and white pepper. Once noodles is done, place noodles into bowl. Add a splash of water to help incorporate the above with noodles. Assemble fried tofu, zucchini, and egg into bowl. I gobbled this in five minutes. Was dope!",
+        Assemble: In a bowl, I threw in some soy sauce, splash of sesame oil, chilli flakes, chinese Chili sauce/paste of your choice, I used chiu chow chilli sauce, sprinkle of salt and white pepper. Once noodles is done, place noodles into bowl. 
+        
+        Add a splash of water to help incorporate the above with noodles. Assemble fried tofu, zucchini, and egg into bowl. I gobbled this in five minutes. Was dope!",
         picture: "https://i.redd.it/0r854bdrd4241.jpg",
-        vegetarian: true,
+        category: "Vegan",
         favorite: false
     },
     {
         title: "Chorizo Tacos with Onion Tops",
-        ingredients: "1 fresh chorizo or italian sausage taken out of its casing
+        ingredients: "
+        1 fresh chorizo or italian sausage taken out of its casing
         1 small yellow onion,
         2—4 cloves of garlic, depending on how garlicky you like things,
         1 small potato, approx 100 g or 4 oz,
         4 corn tortillas,
         Chives onion tops, hot sauce, and shredded cheese to garnish, optional",
-        cooktime: 15,
-        instructions: "Preheat oven to 400 °F.
+        cooktime: "15",
+        instructions: "
+        Preheat oven to 400 °F.
 
         Sautee one fresh chorizo sausage on high heat, breaking it up with your spatula as you go, then leave it to get a bit of sear on while you prepare the other ingredients.
         
@@ -212,12 +228,13 @@ recipes = [
         
         Serve hot and fresh with some chives onion tops if desired.",
         picture: "https://external-preview.redd.it/TyT3RLNFEJ20__9GjPld7HgCQSKyb3AZsGZeLBzR46o.jpg?auto=webp&s=38f6572054f353d80bb81873ad3734d946b572f2",
-        vegetarian: false,
+        category: "Omnivore",
         favorite: false
     },
     {
         title: "Amazing! Lemon Garlic Butter Steak with Spinach",
-        ingredients: "1 2/3 lb, 750g flank steak, sliced against the grain
+        ingredients: "
+        1 2/3 lb, 750g flank steak, sliced against the grain
         1 1/4 lb, 500g fresh spinach
         4 tablespoons butter or ghee or less if you want
         4 garlic cloves, minced 
@@ -232,8 +249,9 @@ recipes = [
         2/3 cup low-sodium soy sauce
         3/4 cup olive oil
         2 tablespoons Sriracha sauce or any hot chili sauce you like",
-        cooktime: 25,
-        instructions: "YIELD: 2 SERVINGS PREP TIME: 10 MIN     COOK TIME: 15 MIN
+        cooktime: "25",
+        instructions: "
+        YIELD: 2 SERVINGS PREP TIME: 10 MIN     COOK TIME: 15 MIN
         1. Combine the ingredients for the marinade in an airtight container or a Ziploc bag. Add the steak strips into the marinade, seal and allow to marinate in the refrigerator for 30 minutes to one hour. The longer it marinates, the more tender the meat is!
 
         2. In the meantime, wash and drain spinach. Melt one tablespoon butter in a large skillet and cook spinach for 1 minute, turning occasionally, until just wilted. Set aside in a shallow plate and allow to drain from the cooking juices. Quickly rinse and pat the skillet dry.
@@ -244,16 +262,18 @@ recipes = [
 
         5. Add the steak strips back to the pan and adjust seasoning if necessary. Push steak aside in the skillet and stir in cooked spinach (well drained, see note below). Garnish with lemon slices, more chopped chive, and parsley and serve immediately. Enjoy!",
         picture: "https://i.redd.it/jh4wsfueszx41.jpg",
-        vegetarian: false,
+        category: "Omnivore",
         favorite: false
     },
     {
         title: "2 ingredient Pizza chips!!",
-        ingredients: "8 tbsp shredded mozarella⁠
+        ingredients: "
+        8 tbsp shredded mozarella⁠
         8 pepperonis ⁠
         Seasonings of your preference",
-        cooktime: 15,
-        instructions: "Preheat oven to 350F. Create 8 piles of cheese on a parchment lined baking sheet, top with pepperoni, & season.⁠
+        cooktime: "15",
+        instructions: "
+        Preheat oven to 350F. Create 8 piles of cheese on a parchment lined baking sheet, top with pepperoni, & season.⁠
 
         Bake for 7 minutes. If you want them to be extra crispy, broil for the last minute or two. Take out, let harden, & enjoy!⁠
         
@@ -268,44 +288,49 @@ recipes = [
         
         Notes: the more you salt them; the less greasy they will be. Each pile of cheese should be 1 tbsp. I try to make the piles slightly bigger than the pepperonis! If you use Italian seasonings & oregano it will make a huge difference in flavor!",
         picture: "https://i.redd.it/w5okveyqmev41.jpg",
-        vegetarian: false,
+        category: "Omnivore",
         favorite: false
     },
     {
         title: "Buttered toast, sliced avocado with paprika, salt and pepper, and a runny egg",
-        ingredients: "Soft wheat bread, 
-        Svocado, 
+        ingredients: "
+        Soft wheat bread, 
+        Avocado, 
         Eggs",
-        cooktime: 15,
-        instructions: "I toasted the toast, and buttered it. 
+        cooktime: "15",
+        instructions: "
+        I toasted the toast, and buttered it. 
         
         Sliced my avocado, sprinkled it with paprika, salt and pepper. 
         
         Added a basted egg on top.",
         picture: "https://i.redd.it/mvr4gdpxef231.jpg",
-        vegetarian: true,
+        category: "Vegetarian",
         favorite: false
     },
     {
         title: "A super fast teriyaki stir fry ",
-        ingredients: "Any vegetable you have:I like broccoli, edamame, peas, spinach, mushrooms, peppers, etc,
+        ingredients: "
+        Any vegetable you have: I like broccoli, edamame, peas, spinach, mushrooms, peppers, etc,
         Some soy,
         Teriyaki sauce,
         1 clove of garlic,
         Some veggie broth",
-        cooktime: 10,
-        instructions: "Heat up a pan with 1-2 tbsp of veggie broth and throw the garlic on. 
+        cooktime: "10",
+        instructions: "
+        Heat up a pan with 1-2 tbsp of veggie broth and throw the garlic on. 
         
         Once it is sautéing, add your vegetables and mix them around. 
         
         After they are soft, and add the sauce and mix some more. In 2-3 minutes, you’re done!",
         picture: "https://i.redd.it/aqn4cllphb631.jpg",
-        vegetarian: true,
+        category: "Vegan",
         favorite: false
     },
     {
         title: "15-Minute Chicken and Rice Recipe!",
-        ingredients: "1 cup rice
+        ingredients: "
+        1 cup rice
         2 cups water
         Extra virgin olive oil optional
         1 tablespoon neutral cooking oil for frying, more if needed 
@@ -319,8 +344,9 @@ recipes = [
         2 teaspoons dry chives optional
         2 teaspoons crushed red pepper more or less, to taste
         Salt and pepper to taste",
-        cooktime: 15,
-        instructions: "Cook the Rice:
+        cooktime: "15",
+        instructions: "
+        Cook the Rice:
         Combine the rice, water, extra virgin olive oil, and a sprinkle of salt in a small pot over medium high heat. Bring to a boil, reduce heat, stir once, and cover.
         
         Simmer the rice for 15 minutes and then turn off the heat.
@@ -336,19 +362,21 @@ recipes = [
         To Serve:
         Divide the cooked rice between shallow bowls and pour the ground chicken and vegetables on top. Garnish with a sprinkle more of dry chives, if desired. Enjoy!",
         picture: "https://i.redd.it/wf2ipevknf741.jpg",
-        vegetarian: false,
+        category: "Omnivore",
         favorite: false
     },
     {
         title: "Japanese Egg Sandwich / Tamago Sando たまごサンド",
-        ingredients: "2 White Bread, Milk Bread, or Brioche Bread
+        ingredients: "
+        2 White Bread, Milk Bread, or Brioche Bread
         3 Medium to Large Eggs
         Kewpie Mayo, Japanese Mayo
         Salt & Pepper
         1 tsp sugar, optional
         Parsley for Garnish",
-        cooktime: 15,
-        instructions: "Boil eggs, and take an egg out at 6, 8:30, 12 minute mark.
+        cooktime: "15",
+        instructions: "
+        Boil eggs, and take an egg out at 6, 8:30, 12 minute mark.
 
         Put eggs in ice water to stop cooking
         
@@ -370,12 +398,13 @@ recipes = [
         
         This is my recipe from my preference, the egg part is all up to you! You can make all of them hard boiled, or all of them medium boiled. But if you make all of them 6 minutes, the mixture would be too wet.",
         picture: "https://i.redd.it/k0t8fs5941741.jpg",
-        vegetarian: true,
+        category: "Vegetarian",
         favorite: false
     },    
     {
         title: "Spicy Sesame Noodles",
-        ingredients: "2 packs of ramen or 1 packet of dry Asian noodles, you can also use linguini pasta noodles
+        ingredients: "
+        2 packs of ramen or 1 packet of dry Asian noodles, you can also use linguini pasta noodles
         1/3 cup tamari or good quality soy sauce
         2 tablespoons rice vinegar
         2 tablespoon toasted sesame oil
@@ -389,8 +418,9 @@ recipes = [
         Handful of mushrooms sliced
         2-3 bokchoy sliced
         optional toppings: toasted sesame seeds, green scallions, extra black pepper",
-        cooktime: 20,
-        instructions: "Cook the noodles according to the directions in the package and set aside.
+        cooktime: "20",
+        instructions: "
+        Cook the noodles according to the directions in the package and set aside.
         
         In deep sauce pan, heat the sesame oil over a med heat, cook the sliced mushrooms. 
         
@@ -400,12 +430,12 @@ recipes = [
         
         Garnish the noodles with more sesame seeds, green scallions and enjoy.",
         picture: "https://i.redd.it/d22vt2pbcsu41.jpg",
-        vegetarian: true,
+        category: "Vegetarian",
         favorite: false
     },    
     {
         title: "Creamy Lemon Chicken Breast Delicious!!",
-        ingredients: "CRISPY CHICKEN
+        ingredients: "
         600g / 1.2lb chicken breasts, 2 large 
         1/2 tsp salt
         Black pepper
@@ -421,8 +451,9 @@ recipes = [
         TO SERVE
         Pasta of choice, I used linguine
         Finely chopped parsley",
-        cooktime: 15,
-        instructions: "CRISPY CHICKEN
+        cooktime: "15",
+        instructions: "
+        CRISPY CHICKEN
         Slice chicken breast horizontally to create two thin steaks, so you end up with 4 thin steaks in total.
         
         Sprinkle each side with salt and pepper, then coat with flour, shaking off excess.
@@ -440,12 +471,13 @@ recipes = [
         
         Place chicken on serving plates with pasta or mashed potatoes. Sprinkle with fresh parsley if using. Spoon over Lemon Sauce and serve! Bread for mopping wouldn't go astray either",
         picture: "https://external-preview.redd.it/sC3yzvg6QXevAh2joTBADrNEakOLTb0B5E8yrLvpJtQ.jpg?auto=webp&s=8b67d11809d479f438e792e363475d5f1a8941bb",
-        vegetarian: false,
+        category: "Omnivore",
         favorite: false
     },    
     {
         title: "💥 Butter Chicken 💥",
-        ingredients: "100 grams Chicken Breast, diced
+        ingredients: "
+        100 grams Chicken Breast, diced
         10 grams Minced Garlic 
         10 grams Minced Shallots 
         5 grams Minced Ginger
@@ -455,8 +487,9 @@ recipes = [
         2 tbsp Heavy Cream
         ½ cup Chicken Stock
         Fresh Cilantro for garnish",
-        cooktime: 15,
-        instructions: "Melt butter in a pan.
+        cooktime: "15",
+        instructions: "
+        Melt butter in a pan.
 
         Add ginger, garlic, and shallots. Sautee until aromatic.
         
@@ -470,12 +503,13 @@ recipes = [
         
         Top with fresh cilantro.",
         picture: "https://i.redd.it/a9de4urlq8w41.jpg",
-        vegetarian: false,
+        category: "Omnivore",
         favorite: false
     },    
     {
         title: "This is my Brothy Beans and Greens Recipe!",
-        ingredients: "Brothy Beans and Greens:
+        ingredients: "
+        Brothy Beans and Greens:
         2 teaspoons extra virgin olive oil
         1 yellow onion peeled and diced
         5 cloves garlic peeled and minced
@@ -494,8 +528,9 @@ recipes = [
         2 eggs
         Butter or oil for frying
         Minced parsley, fresh or dry optional, for garnish",
-        cooktime: 20,
-        instructions: "Sauté the Aromatics:
+        cooktime: "20",
+        instructions: "
+        Sauté the Aromatics:
         In a wide pot, heat the oil over medium heat. Add the onion and cook for 3 minutes.
         
         Add the garlic and minced chili pepper or crushed red pepper and cook for 45 seconds until fragrant.
@@ -517,12 +552,13 @@ recipes = [
         To Serve:
         Ladle the brothy beans and greens into bowls and place an egg on top. Garnish with fresh or dry minced parsley and a sprinkle of salt on the egg. Enjoy!",
         picture: "https://i.redd.it/eghbkikx5zl51.jpg",
-        vegetarian: true,
+        category: "Vegan",
         favorite: false
     },    
     {
         title: "Elotes, Mexican Street Corn",
-        ingredients: "4 ears corn, remove ends and shuck the corn.
+        ingredients: "
+        4 ears corn, remove ends and shuck the corn.
         1 lime, cut lengthwise into 6 wedges.
         1/2 cup shredded cotija cheese
         2 tablespoons mayonnaise
@@ -532,23 +568,25 @@ recipes = [
         1 teaspoon ancho chile powder
         1/2 teaspoon cayenne pepper powder
         Hot sauce",
-        cooktime: 15,
-        instructions: "STEP 1Adjust rack to second to top position, then preheat the oven broiler.
+        cooktime: "15",
+        instructions: "
+        Adjust rack to second to top position, then preheat the oven broiler.
 
-        STEP 2Corn: Place corn on a baking sheet under broiler until slightly charred, rotating frequently. About 8 to 10 minutes total. Let corn cool. Your sauce will melt off if you put it on hot.
+        Corn: Place corn on a baking sheet under broiler until slightly charred, rotating frequently. About 8 to 10 minutes total. Let corn cool. Your sauce will melt off if you put it on hot.
         
-        STEP 3Sauce & Cheese: In a small bowl, mix together 1 tablespoon sour cream, and 2 tablespoons mayonnaise. Rub the mayonnaise mixture onto the corn. Dust the corn with shredded cotija cheese.
+        Sauce & Cheese: In a small bowl, mix together 1 tablespoon sour cream, and 2 tablespoons mayonnaise. Rub the mayonnaise mixture onto the corn. Dust the corn with shredded cotija cheese.
         
-        STEP 4Seasoning: In a small bowl, stir together, 1 teaspoon salt, 1 teaspoon smoked paprika, 1 teaspoon ancho chile powder, 1/2 teaspoon cayenne pepper powder.
+        Seasoning: In a small bowl, stir together, 1 teaspoon salt, 1 teaspoon smoked paprika, 1 teaspoon ancho chile powder, 1/2 teaspoon cayenne pepper powder.
         
-        STEP 5To serve: Serve cheese coated corn cobs with seasoning mix, lime, and hot sauce on the side. You can season before serving if you prefer, but adding lime or hot sauce too long before eating will cause the coating to become loose and slide off.",
+        To serve: Serve cheese coated corn cobs with seasoning mix, lime, and hot sauce on the side. You can season before serving if you prefer, but adding lime or hot sauce too long before eating will cause the coating to become loose and slide off.",
         picture: "https://external-preview.redd.it/hqrlVzorpv0VhdG-CBb_YG9Mevo603gXsLoG6VRFFQ8.jpg?auto=webp&s=e01e51f390660279b8dcae98fb82ee9f4005de50",
-        vegetarian: true,
+        category: "Vegetarian",
         favorite: false
     },    
     {
         title: "Custard French Toast with Strawberry Lemon Glaze",
-        ingredients: "1 loaf challah bread, sliced into 1 inch thick slices, about 6 slices per loaf
+        ingredients: "
+        1 loaf challah bread, sliced into 1 inch thick slices, about 6 slices per loaf
         2 cups strawberries, remove ends, slice lengthwise.
         2 tablespoons lemon juice
         6 eggs
@@ -557,21 +595,23 @@ recipes = [
         1/2 stick of butter, sliced into pats of butter equal to how many slices of bread you have.
         1 cup powdered sugar
         1 teaspoon coarse salt",
-        cooktime: 15,
-        instructions: "STEP 1Glaze: In a medium bowl stir together sliced strawberries, 1/2 cup powdered sugar, and 2 tablespoons lemon juice. Let sit while you cook the toast, the strawberries will release some liquid.
+        cooktime: "15",
+        instructions: "
+        Glaze: In a medium bowl stir together sliced strawberries, 1/2 cup powdered sugar, and 2 tablespoons lemon juice. Let sit while you cook the toast, the strawberries will release some liquid.
 
-        STEP 2Custard: In a large bowl, whisk together 6 whole eggs, 2 egg yolks, 1/2 cup heavy cream or milk, 1 teaspoon coarse salt, and 1/4 cup powdered sugar.
+        Custard: In a large bowl, whisk together 6 whole eggs, 2 egg yolks, 1/2 cup heavy cream or milk, 1 teaspoon coarse salt, and 1/4 cup powdered sugar.
         
-        STEP 3French Toast: Heat a nonstick pan or griddle over medium-low heat. Submerge a slice of bread into the custard mix. Let the bread soak up the mix for about 10 seconds. Make sure to flip the bread so that both sides are coated. If the bread does not seem to be absorbing the custard, you can gently squeeze the bread in the custard to help it absorb. Scrape the excess custard mix off of the sides of the bread, I usually just drag it along the side of the bowl. Place a pat of butter in the pan and lay the toast over it to fry. Cook until golden brown on one side and then flip and cook to golden brown on the other side, about 2 to 4 minutes per side.
+        French Toast: Heat a nonstick pan or griddle over medium-low heat. Submerge a slice of bread into the custard mix. Let the bread soak up the mix for about 10 seconds. Make sure to flip the bread so that both sides are coated. If the bread does not seem to be absorbing the custard, you can gently squeeze the bread in the custard to help it absorb. Scrape the excess custard mix off of the sides of the bread, I usually just drag it along the side of the bowl. Place a pat of butter in the pan and lay the toast over it to fry. Cook until golden brown on one side and then flip and cook to golden brown on the other side, about 2 to 4 minutes per side.
         
-        STEP 4To serve: Stack the French toast on a plate. Top with the strawberries from the glaze. Drizzle the glaze over the top of the toast. Dust the stack of French toast with the remaining powdered sugar.",
+        To serve: Stack the French toast on a plate. Top with the strawberries from the glaze. Drizzle the glaze over the top of the toast. Dust the stack of French toast with the remaining powdered sugar.",
         picture: "https://i.redd.it/zvkr4kkodna51.jpg",
-        vegetarian: true,
+        category: "Vegetarian",
         favorite: false
     },    
     {
         title: "Broccoli and Prosciutto Fritatta",
-        ingredients: "7 eggs
+        ingredients: "
+        7 eggs
         Mozzarella cheese
         1 cup broccoli
         1 Shallot or Half onion
@@ -580,8 +620,9 @@ recipes = [
         Olive oil
         Black pepper
         Milk/cream, optional",
-        cooktime: 15,
-        instructions: "Serves 4-6
+        cooktime: "15",
+        instructions: "
+        Serves 4-6
         
         I honestly didn't measure any ingredients, just add whatever you like and make sure the eggs are about the same volume as the other ingredients. You can also change the ingredients to almost anything; it's a very easy to customize recipe!
         Start by putting olive oil in the BROILER SAFE pan at moderate heat, and then chop the shallot or onion and add that in.
@@ -604,12 +645,13 @@ recipes = [
         
         Use Spatula to loosen the Frittata from the pan and then enjoy!",
         picture: "https://i.redd.it/gjyuax2k6ft41.jpg",
-        vegetarian: true,
+        category: "Vegetarian",
         favorite: false
     },    
     {
         title: "Pizza Pasta Casserole",
-        ingredients: "1 pound rotini pasta, cooked and drained, ziti, small or medium shells, or another small-shaped pasta may be substituted
+        ingredients: "
+        1 pound rotini pasta, cooked and drained, ziti, small or medium shells, or another small-shaped pasta may be substituted
         2 tablespoons olive oil
         1 large sweet Vidalia onion, diced small
         1 pound lean ground beef
@@ -620,8 +662,9 @@ recipes = [
         16 ounces shredded mozzarella cheese
         24 pepperoni
         fresh parsley, optional for garnishing",
-        cooktime: 20,
-        instructions: "Preheat broiler to high and spray a 9×13-inch baking or casserole dish with cooking spray; set aside.
+        cooktime: "20",
+        instructions: "
+        Preheat broiler to high and spray a 9×13-inch baking or casserole dish with cooking spray; set aside.
 
         To a stockpot, cook the pasta according to the manufacturer’s directions; drain and set aside.
         
@@ -638,12 +681,13 @@ recipes = [
         NOTES
         Extra will keep airtight in the fridge for up to 5 days or in the freezer for up to 3 months.",
         picture: "https://i.redd.it/yw4rqpyz3cy41.jpg",
-        vegetarian: false,
+        category: "Omnivore",
         favorite: false
     },    
     {
         title: "💥Creamy garlic mushroom tagliatelle",
-        ingredients: "1 tbsp oil
+        ingredients: "
+        1 tbsp oil
         250 g ~ 9 oz mushrooms, sliced, I used chestnut mushrooms
         250 g ~ 9 oz fresh tagliatelle
         3 cloves garlic, minced
@@ -654,8 +698,9 @@ recipes = [
         Salt
         Black pepper
         Few sprigs fresh parsley, finely chopped",
-        cooktime: 20,
-        instructions: "Heat a dash of oil in a frying pan, and add the sliced mushrooms. Cook over a medium heat for 5 minutes, until fairly soft.
+        cooktime: "20",
+        instructions: "
+        Heat a dash of oil in a frying pan, and add the sliced mushrooms. Cook over a medium heat for 5 minutes, until fairly soft.
 
         While the mushrooms are cooking, boil the tagliatelle in plenty of water until cooked al dente – it usually only takes a few minutes, especially if you’re using fresh tagliatelle. Dried tagliatelle will take a few extra minutes.
         
@@ -665,12 +710,12 @@ recipes = [
         
         When the sauce is hot, add the cooked tagliatelle, and toss to coat. You can add a dash more milk if the sauce seems too thick. Serve immediately topped with more parsley and grated parmesan.",
         picture: "https://i.redd.it/nl26ptjxkog41.jpg",
-        vegetarian: true,
+        category: "Vegetarian",
         favorite: false
     }
 ]
 recipes.each do |recipe| 
-    Recipe.create(title: recipe[:title], ingredients: recipe[:ingredients], cooktime: recipe[:cooktime], instructions: recipe[:instructions], picture: recipe[:picture], vegetarian: recipe[:vegetarian], favorite: recipe[:favorite])
+    Recipe.create(title: recipe[:title], ingredients: recipe[:ingredients], cooktime: recipe[:cooktime], instructions: recipe[:instructions], picture: recipe[:picture], category: recipe[:category], favorite: recipe[:favorite])
 end
 puts "recipes done"
 

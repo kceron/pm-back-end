@@ -19,7 +19,7 @@ gem 'bcrypt', '~> 3.1.7'
 #serializers
 gem 'active_model_serializers'
 ############# ADD CLOUDINARY
-# gem 'cloudinary'
+gem 'cloudinary'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'

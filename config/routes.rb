@@ -5,6 +5,7 @@ Rails.application.routes.draw do
   resources :recipes
   resources :users
 
+  # resources :items, only: [:create]
   post "/login", to: "users#login"
   get "/autologin", to: "users#autologin"
   get "/logout", to: "users#logout"
