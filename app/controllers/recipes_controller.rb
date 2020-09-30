@@ -41,9 +41,10 @@ class RecipesController < ApplicationController
     
     #DELETE
     def destroy
-      @recipe = recipe.find_by(id: params[:id])
+      # byebug
+      @recipe = Recipe.find_by(id: params[:id])
       @recipe.destroy
-      render json: { message: "Recipe deleted!" }
+      render json: @recipe
     end
     
     private
