@@ -59,7 +59,7 @@ recipes = [
         You’re done! Grab your chopsticks and eat!!",
         picture: "https://i.redd.it/f0tvnxncnhx31.jpg",
         category: "Omnivore",
-        favorite: false
+        user_id: 1
     },
     {
         title: "Tofu, Noodle & Veggie Bowl with Ginger Nectarine Vinaigrette",
@@ -96,7 +96,7 @@ recipes = [
         ",
         picture: "https://i.redd.it/5st77482dsb41.jpg",
         category: "Omnivore",
-        favorite: false
+        user_id: 2
     },
     {
         title: "1 pan Breakfast Hash",
@@ -125,7 +125,7 @@ recipes = [
         This can feed a crowd and also works great for meal prepping! It's fast and the clean up is easy. Hope ypu enjoy!",
         picture: "https://i.redd.it/day6u0idx0641.jpg",
         category: "Omnivore",
-        favorite: false
+        user_id: 3
     },
     {
         title: "Dumpster pizza",
@@ -137,7 +137,7 @@ recipes = [
         Put whatever your leftovers on top of frozen pizza, toss in the oven.",
         picture: "https://i.redd.it/lbamcufmebb51.png",
         category: "Omnivore",
-        favorite: false
+        user_id: 4
     },
     {
         title: "Shrimp Cauliflower Fried Rice",
@@ -173,7 +173,7 @@ recipes = [
         Reheat it just before serving and enjoy!",
         picture: "https://i.redd.it/yv2e8xdo4sa41.jpg",
         category: "Pescatarian",
-        favorite: false
+        user_id: 5
     },
     {
         title: "Chilli soy spinach noodles, air fried spicy sesame tofu, sautéed garlic zucchini, sunny side up",
@@ -203,7 +203,7 @@ recipes = [
         Add a splash of water to help incorporate the above with noodles. Assemble fried tofu, zucchini, and egg into bowl. I gobbled this in five minutes. Was dope!",
         picture: "https://i.redd.it/0r854bdrd4241.jpg",
         category: "Vegan",
-        favorite: false
+        user_id: 6
     },
     {
         title: "Chorizo Tacos with Onion Tops",
@@ -229,7 +229,7 @@ recipes = [
         Serve hot and fresh with some chives onion tops if desired.",
         picture: "https://external-preview.redd.it/TyT3RLNFEJ20__9GjPld7HgCQSKyb3AZsGZeLBzR46o.jpg?auto=webp&s=38f6572054f353d80bb81873ad3734d946b572f2",
         category: "Omnivore",
-        favorite: false
+        user_id: 7   
     },
     {
         title: "Amazing! Lemon Garlic Butter Steak with Spinach",
@@ -263,7 +263,7 @@ recipes = [
         5. Add the steak strips back to the pan and adjust seasoning if necessary. Push steak aside in the skillet and stir in cooked spinach (well drained, see note below). Garnish with lemon slices, more chopped chive, and parsley and serve immediately. Enjoy!",
         picture: "https://i.redd.it/jh4wsfueszx41.jpg",
         category: "Omnivore",
-        favorite: false
+        user_id: 8
     },
     {
         title: "2 ingredient Pizza chips!!",
@@ -289,7 +289,7 @@ recipes = [
         Notes: the more you salt them; the less greasy they will be. Each pile of cheese should be 1 tbsp. I try to make the piles slightly bigger than the pepperonis! If you use Italian seasonings & oregano it will make a huge difference in flavor!",
         picture: "https://i.redd.it/w5okveyqmev41.jpg",
         category: "Omnivore",
-        favorite: false
+        user_id: 9
     },
     {
         title: "Buttered toast, sliced avocado with paprika, salt and pepper, and a runny egg",
@@ -306,7 +306,7 @@ recipes = [
         Added a basted egg on top.",
         picture: "https://i.redd.it/mvr4gdpxef231.jpg",
         category: "Vegetarian",
-        favorite: false
+        user_id: 1  
     },
     {
         title: "A super fast teriyaki stir fry ",
@@ -325,7 +325,7 @@ recipes = [
         After they are soft, and add the sauce and mix some more. In 2-3 minutes, you’re done!",
         picture: "https://i.redd.it/aqn4cllphb631.jpg",
         category: "Vegan",
-        favorite: false
+        user_id: 2  
     },
     {
         title: "15-Minute Chicken and Rice Recipe!",
@@ -363,7 +363,7 @@ recipes = [
         Divide the cooked rice between shallow bowls and pour the ground chicken and vegetables on top. Garnish with a sprinkle more of dry chives, if desired. Enjoy!",
         picture: "https://i.redd.it/wf2ipevknf741.jpg",
         category: "Omnivore",
-        favorite: false
+        user_id: 3
     },
     {
         title: "Japanese Egg Sandwich / Tamago Sando たまごサンド",
@@ -399,7 +399,7 @@ recipes = [
         This is my recipe from my preference, the egg part is all up to you! You can make all of them hard boiled, or all of them medium boiled. But if you make all of them 6 minutes, the mixture would be too wet.",
         picture: "https://i.redd.it/k0t8fs5941741.jpg",
         category: "Vegetarian",
-        favorite: false
+        user_id: 4
     },    
     {
         title: "Spicy Sesame Noodles",
@@ -431,7 +431,7 @@ recipes = [
         Garnish the noodles with more sesame seeds, green scallions and enjoy.",
         picture: "https://i.redd.it/d22vt2pbcsu41.jpg",
         category: "Vegetarian",
-        favorite: false
+        user_id: 5
     },    
     {
         title: "Creamy Lemon Chicken Breast Delicious!!",
@@ -472,7 +472,7 @@ recipes = [
         Place chicken on serving plates with pasta or mashed potatoes. Sprinkle with fresh parsley if using. Spoon over Lemon Sauce and serve! Bread for mopping wouldn't go astray either",
         picture: "https://external-preview.redd.it/sC3yzvg6QXevAh2joTBADrNEakOLTb0B5E8yrLvpJtQ.jpg?auto=webp&s=8b67d11809d479f438e792e363475d5f1a8941bb",
         category: "Omnivore",
-        favorite: false
+        user_id: 6
     },    
     {
         title: "💥 Butter Chicken 💥",
@@ -504,7 +504,7 @@ recipes = [
         Top with fresh cilantro.",
         picture: "https://i.redd.it/a9de4urlq8w41.jpg",
         category: "Omnivore",
-        favorite: false
+        user_id: 7
     },    
     {
         title: "This is my Brothy Beans and Greens Recipe!",
@@ -553,7 +553,7 @@ recipes = [
         Ladle the brothy beans and greens into bowls and place an egg on top. Garnish with fresh or dry minced parsley and a sprinkle of salt on the egg. Enjoy!",
         picture: "https://i.redd.it/eghbkikx5zl51.jpg",
         category: "Vegan",
-        favorite: false
+        user_id: 8
     },    
     {
         title: "Elotes, Mexican Street Corn",
@@ -581,7 +581,7 @@ recipes = [
         To serve: Serve cheese coated corn cobs with seasoning mix, lime, and hot sauce on the side. You can season before serving if you prefer, but adding lime or hot sauce too long before eating will cause the coating to become loose and slide off.",
         picture: "https://external-preview.redd.it/hqrlVzorpv0VhdG-CBb_YG9Mevo603gXsLoG6VRFFQ8.jpg?auto=webp&s=e01e51f390660279b8dcae98fb82ee9f4005de50",
         category: "Vegetarian",
-        favorite: false
+        user_id: 9
     },    
     {
         title: "Custard French Toast with Strawberry Lemon Glaze",
@@ -606,7 +606,7 @@ recipes = [
         To serve: Stack the French toast on a plate. Top with the strawberries from the glaze. Drizzle the glaze over the top of the toast. Dust the stack of French toast with the remaining powdered sugar.",
         picture: "https://i.redd.it/zvkr4kkodna51.jpg",
         category: "Vegetarian",
-        favorite: false
+        user_id: 1
     },    
     {
         title: "Broccoli and Prosciutto Fritatta",
@@ -646,7 +646,7 @@ recipes = [
         Use Spatula to loosen the Frittata from the pan and then enjoy!",
         picture: "https://i.redd.it/gjyuax2k6ft41.jpg",
         category: "Vegetarian",
-        favorite: false
+        user_id: 2
     },    
     {
         title: "Pizza Pasta Casserole",
@@ -682,7 +682,7 @@ recipes = [
         Extra will keep airtight in the fridge for up to 5 days or in the freezer for up to 3 months.",
         picture: "https://i.redd.it/yw4rqpyz3cy41.jpg",
         category: "Omnivore",
-        favorite: false
+        user_id: 3
     },    
     {
         title: "💥Creamy garlic mushroom tagliatelle",
@@ -711,12 +711,10 @@ recipes = [
         When the sauce is hot, add the cooked tagliatelle, and toss to coat. You can add a dash more milk if the sauce seems too thick. Serve immediately topped with more parsley and grated parmesan.",
         picture: "https://i.redd.it/nl26ptjxkog41.jpg",
         category: "Vegetarian",
-        favorite: false
+        user_id: 4
     }
 ]
-recipes.each do |recipe| 
-    Recipe.create(title: recipe[:title], ingredients: recipe[:ingredients], cooktime: recipe[:cooktime], instructions: recipe[:instructions], picture: recipe[:picture], category: recipe[:category], favorite: recipe[:favorite])
-end
+Recipe.create(recipes)
 puts "recipes done"
 
 comments = [
@@ -778,9 +776,7 @@ comments = [
         recipe_id: 1
     }
 ]
-comments.each do |comment| 
-    Comment.create(content: comment[:content], user_id: comment[:user_id], recipe_id: comment[:recipe_id])
-end
+Comment.create(comments)
 puts "comments done"
 
 puts "DONE SEEDING"

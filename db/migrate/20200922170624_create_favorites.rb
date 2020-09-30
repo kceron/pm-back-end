@@ -3,7 +3,6 @@ class CreateFavorites < ActiveRecord::Migration[6.0]
     create_table :favorites do |t|
       t.belongs_to :user, null: false, foreign_key: true
       t.belongs_to :recipe, null: false, foreign_key: true
-      t.boolean :favorite
 
       t.timestamps
     end
