@@ -41,7 +41,16 @@ class RecipesController < ApplicationController
     
     #DELETE
     def destroy
-      # byebug
+  
+      @comment= Comment.where(recipe_id:params[:id])
+      if @comment.length > 0
+      @comment.destroy_all
+      end
+
+      @favorite = Favorite.where(recipe_id:params[:id])
+      if @favorite.length > 0
+        @favorite.destroy_all
+        end
       @recipe = Recipe.find_by(id: params[:id])
       @recipe.destroy
       render json: @recipe
