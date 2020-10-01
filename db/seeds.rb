@@ -249,7 +249,7 @@ recipes = [
         2/3 cup low-sodium soy sauce
         3/4 cup olive oil
         2 tablespoons Sriracha sauce or any hot chili sauce you like",
-        cooktime: "25",
+        cooktime: "20",
         instructions: "
         YIELD: 2 SERVINGS PREP TIME: 10 MIN     COOK TIME: 15 MIN
         1. Combine the ingredients for the marinade in an airtight container or a Ziploc bag. Add the steak strips into the marinade, seal and allow to marinate in the refrigerator for 30 minutes to one hour. The longer it marinates, the more tender the meat is!
@@ -261,7 +261,7 @@ recipes = [
         4. Still in the same skillet, add the last tablespoon butter, garlic, lemon juice, red pepper flakes, beef broth, parsley, chives, and remaining marinade to the cooking juices. Bring to a simmer and allow to reduce for 1-2 minutes, stirring regularly.
 
         5. Add the steak strips back to the pan and adjust seasoning if necessary. Push steak aside in the skillet and stir in cooked spinach (well drained, see note below). Garnish with lemon slices, more chopped chive, and parsley and serve immediately. Enjoy!",
-        picture: "https://i.redd.it/jh4wsfueszx41.jpg",
+        picture: "https://www.eatwell101.com/wp-content/uploads/2018/06/Lemon-Garlic-Butter-Steak-and-Spinach.jpg",
         category: "Omnivore",
         user_id: 8
     },
