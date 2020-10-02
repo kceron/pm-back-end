@@ -1,7 +1,10 @@
 class FavoritesController < ApplicationController
 
     def index
-        favorites = Favorite.all 
+
+        @user = User.find_by(id: session[:user_id])
+        
+        favorites = @user.favorites 
         render json: favorites
     end
 

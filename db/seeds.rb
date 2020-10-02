@@ -62,7 +62,7 @@ recipes = [
         user_id: 1
     },
     {
-        title: "Tofu, Noodle & Veggie Bowl with Ginger Nectarine Vinaigrette",
+        title: "Tofu, Noodle & Veggie Bowl",
         ingredients: "
         1 block tofu
         Small package of shiitake mushrooms
@@ -99,7 +99,7 @@ recipes = [
         user_id: 2
     },
     {
-        title: "1 pan Breakfast Hash",
+        title: "Breakfast Hash Pan",
         ingredients: "
         1 pound sausage
         3 strips of bacon
@@ -176,7 +176,7 @@ recipes = [
         user_id: 5
     },
     {
-        title: "Chilli soy spinach noodles, air fried spicy sesame tofu, sautéed garlic zucchini, sunny side up",
+        title: "Chilli soy spinach noodles",
         ingredients: "
         Tofu,
         Zucchini,
@@ -292,7 +292,7 @@ recipes = [
         user_id: 9
     },
     {
-        title: "Buttered toast, sliced avocado with paprika, salt and pepper, and a runny egg",
+        title: "Buttered toast, sliced avocado with paprika",
         ingredients: "
         Soft wheat bread, 
         Avocado, 
@@ -507,7 +507,7 @@ recipes = [
         user_id: 7
     },    
     {
-        title: "This is my Brothy Beans and Greens Recipe!",
+        title: "My Brothy Beans and Greens Recipe!",
         ingredients: "
         Brothy Beans and Greens:
         2 teaspoons extra virgin olive oil
