@@ -9,12 +9,18 @@ class RecipesController < ApplicationController
         render json: Recipe.find(params[:id])
     end 
 
-    # def update 
-    #     @recipe = Recipe.find_by(id: params[:id])
-        
-    #     @recipe.update(favorite: params[:favorite])
-    #     render json: @recipe
-    # end
+    def update 
+        @recipe = Recipe.find(params[:id])
+        public_id = @recipe.picture.split("/").last.split(".jpg")[0]
+
+        image = Cloudinary::Uploader.upload(params[:picture], options = {public_id: public_id})
+
+     
+        @recipe.update(recipe_params)
+        @recipe.update(picture: image["url"])
+    
+        render json: @recipe
+    end
 
     def create 
         image = Cloudinary::Uploader.upload(params[:picture])
