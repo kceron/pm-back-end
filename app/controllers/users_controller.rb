@@ -19,7 +19,7 @@ class UsersController < ApplicationController
             # return the user in the response
             render json: @user
         else 
-            # fir invalid users, send error
+            # for invalid users, send error
             render json: { message: user.errors.full_messages }, status: :bad_request
         end
     end
@@ -31,7 +31,7 @@ class UsersController < ApplicationController
             session[:user_id] = @user.id 
             render json: @user
         else 
-            render json: { message: "Invalid username or password"}, status: :unauthorized
+            render json: { message: "Invalid username or password" }, status: :unauthorized
         end
     end
 

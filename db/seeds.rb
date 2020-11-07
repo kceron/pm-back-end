@@ -680,7 +680,7 @@ recipes = [
         
         NOTES
         Extra will keep airtight in the fridge for up to 5 days or in the freezer for up to 3 months.",
-        picture: "https://i.redd.it/yw4rqpyz3cy41.jpg",
+        picture: "https://www.averiecooks.com/wp-content/uploads/2018/10/pizzapasta-8.jpg",
         category: "Omnivore",
         user_id: 3
     },    
